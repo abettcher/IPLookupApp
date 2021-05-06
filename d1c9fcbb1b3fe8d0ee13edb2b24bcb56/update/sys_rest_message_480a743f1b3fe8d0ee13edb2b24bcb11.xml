@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message">
+    <sys_rest_message action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <authentication_type>no_authentication</authentication_type>
+        <basic_auth_password/>
+        <basic_auth_profile/>
+        <basic_auth_user/>
+        <description>Information about IP addresses</description>
+        <name>IPInfo</name>
+        <oauth2_profile/>
+        <protocol_name/>
+        <rest_endpoint>https://ipinfo.io/</rest_endpoint>
+        <sys_class_name>sys_rest_message</sys_class_name>
+        <sys_created_by>abettcher@mti.com</sys_created_by>
+        <sys_created_on>2021-05-05 09:07:42</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>480a743f1b3fe8d0ee13edb2b24bcb11</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>IPInfo</sys_name>
+        <sys_package display_value="IPLookup" source="x_mtite_iplookup">d1c9fcbb1b3fe8d0ee13edb2b24bcb56</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="IPLookup">d1c9fcbb1b3fe8d0ee13edb2b24bcb56</sys_scope>
+        <sys_update_name>sys_rest_message_480a743f1b3fe8d0ee13edb2b24bcb11</sys_update_name>
+        <sys_updated_by>abettcher@mti.com</sys_updated_by>
+        <sys_updated_on>2021-05-05 10:07:45</sys_updated_on>
+        <use_basic_auth>false</use_basic_auth>
+        <use_mutual_auth>false</use_mutual_auth>
+    </sys_rest_message>
+</record_update>

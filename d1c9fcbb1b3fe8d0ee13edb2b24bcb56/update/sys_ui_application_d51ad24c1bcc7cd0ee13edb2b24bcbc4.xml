@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>IPAddressInfo</name>
+        <order/>
+        <roles>x_mtite_iplookup.ipaddressinfo_user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>abettcher@mti.com</sys_created_by>
+        <sys_created_on>2021-05-06 10:45:07</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>d51ad24c1bcc7cd0ee13edb2b24bcbc4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>IPAddressInfo</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="IPLookup" source="x_mtite_iplookup">d1c9fcbb1b3fe8d0ee13edb2b24bcb56</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="IPLookup">d1c9fcbb1b3fe8d0ee13edb2b24bcb56</sys_scope>
+        <sys_update_name>sys_ui_application_d51ad24c1bcc7cd0ee13edb2b24bcbc4</sys_update_name>
+        <sys_updated_by>abettcher@mti.com</sys_updated_by>
+        <sys_updated_on>2021-05-06 10:45:07</sys_updated_on>
+    </sys_ui_application>
+</record_update>
